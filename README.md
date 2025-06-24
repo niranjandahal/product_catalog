@@ -32,7 +32,16 @@ This is the flutter app which fetches product from api and is able to view detai
 - See code comments for further details
 
 ## Screenshots
-(Add screenshots here)
+
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_01.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_02.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_03.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_04.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_05.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_06.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_07.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_08.png" width="300">
+<img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_09.png" width="300">
 
 ## APK
 (Build and attach APK here)"# product_catalog" 

@@ -44,5 +44,6 @@ This is the flutter app which fetches product from api and is able to view detai
 <img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_09.png" width="300">
 
 ## APK
+
 (Build and attach APK here)"# product_catalog" 
 "# product_catalog" 

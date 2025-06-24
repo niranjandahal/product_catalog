@@ -35,4 +35,4 @@ This is the flutter app which fetches product from api and is able to view detai
 (Add screenshots here)
 
 ## APK
-(Build and attach APK here)
+(Build and attach APK here)"# product_catalog" 

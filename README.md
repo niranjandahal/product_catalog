@@ -7,6 +7,9 @@ This is the flutter app which fetches product from api and is able to view detai
 2. Run `flutter pub get`
 3. Run the app: `flutter run`
 
+## APK
+[Download the APK] (https://github.com/niranjandahal/product_catalog/releases/download/v1.0.0/productcatalog.apk)
+
 ## Features
 - Browse products from https://fakestoreapi.com/products
 - Search products by title
@@ -42,7 +45,3 @@ This is the flutter app which fetches product from api and is able to view detai
 <img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_07.png" width="300">
 <img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_08.png" width="300">
 <img src="https://github.com/niranjandahal/product_catalog/blob/main/flutter_09.png" width="300">
-
-## APK
-
-[Download the APK] (https://github.com/niranjandahal/product_catalog/releases/download/v1.0.0/productcatalog.apk)
